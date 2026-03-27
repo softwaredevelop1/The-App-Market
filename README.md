@@ -12,7 +12,6 @@ Be careful! While apps are generally safe, its important to remember that these 
 
 # Things to remember
  - Make sure that you refresh the app constantly to prevent it from expiring!
- - I've included a few paid apps, but they are dirt cheap ones, not GTA 5.
  - You can only have 3 apps at a time with the free plan. Sorry!
 
 Thanks for using The App Market!
