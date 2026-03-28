@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "Geometry Dash",
-      "bundleIdentifier": "com.robtop.geometrydash",
+      "bundleIdentifier": "com.robtop.geometryjump",
       "developerName": "Robtop",
       "iconURL": "https://www.dropbox.com/scl/fi/llf0w8mdo1jjr4sb1nqyt/Geometry_Dash_Icon.png?rlkey=90vrk8ulijenu5573zrv9ab8i&st=35azurau&raw=1",
       "localizedDescription": "Geometry Dash is a rhythm-based action platformer where you guide an icon through dangerous, music-synced, spike-filled levels using one-touch controls.",
