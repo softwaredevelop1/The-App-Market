@@ -6,13 +6,13 @@
       "name": "Geometry Dash",
       "bundleIdentifier": "com.robtop.geometrydash",
       "developerName": "Robtop",
-      "iconURL": "https://drive.google.com/file/d/1tS2UCXe49jsFgp6jGrWGzZcJ_xOX4xyQ/view?usp=drive_link",
+      "iconURL": "https://www.dropbox.com/scl/fi/llf0w8mdo1jjr4sb1nqyt/Geometry_Dash_Icon.png?rlkey=90vrk8ulijenu5573zrv9ab8i&st=35azurau&raw=1",
       "localizedDescription": "Geometry Dash is a rhythm-based action platformer where you guide an icon through dangerous, music-synced, spike-filled levels using one-touch controls.",
       "versions": [
         {
           "version": "2.1",
           "date": "2026-03-26",
-          "downloadURL": "https://drive.google.com/file/d/1yl3UC7vh4c6ETTNGtjO3nmHZYF7inp3A/view?usp=drive_link",
+          "downloadURL": "https://dl.dropboxusercontent.com/scl/fi/temi9qjay8agteo0xmyfh/Geometry_Dash_2.11_ios_8.0.ipa?rlkey=leae5qeb26ynmi9ipa20twro2&dl=1",
           "size": 52000000
         }
       ]
